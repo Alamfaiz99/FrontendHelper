@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrontendHelper/static/css/main.ac945339.css",
+    "main.js": "/FrontendHelper/static/js/main.10aea86f.js",
+    "index.html": "/FrontendHelper/index.html",
+    "main.ac945339.css.map": "/FrontendHelper/static/css/main.ac945339.css.map",
+    "main.10aea86f.js.map": "/FrontendHelper/static/js/main.10aea86f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac945339.css",
+    "static/js/main.10aea86f.js"
+  ]
+}
